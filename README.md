@@ -3,7 +3,6 @@
 # 👾 k4r0n22
 
 🎓 **Cybersecurity Engineering** ⭐  
-🎨 Passionate about arts 🎭  
 
 </div>
 
@@ -33,14 +32,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔐 Security Interests
 
-<div align="center">
+- Backend security  
+- Scripting & automation  
+- Linux environments  
+- Secure system design  
 
-<img src="https://github-readme-stats.vercel.app/api?username=k4r0n22&show_icons=true&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=k4r0n22&theme=dark&hide_border=true" />
-
-</div>
-
----
