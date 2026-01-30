@@ -2,7 +2,7 @@
 
 # 👾 k4r0n22
 
-🎓 **Cybersecurity Engineering** ⭐  
+👽 **Cybersecurity Engineering**
 
 </div>
 
@@ -45,7 +45,20 @@
 [![](https://visitcount.itsvg.in/api?id=k4r0n22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-# 🔐 Security Interests
+## 🧠 Cybersecurity Platforms
+
+<div align="center">
+
+<!-- TryHackMe badge -->
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/d0v4h.png)
+
+<!-- Hack The Box badge -->
+<img src="https://www.hackthebox.com/badge/image/1417656" alt="Hack The Box" />
+
+</div>
+
+---
+## 🔐 Security Interests
 
 - Backend security  
 - Scripting & automation  
