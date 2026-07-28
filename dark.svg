@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1180 610" role="img" aria-label="k4r0n22 cyber terminal banner dark">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07101d"/>
+      <stop offset="55%" stop-color="#0a101f"/>
+      <stop offset="100%" stop-color="#0d162a"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111a31" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#0b1221" stop-opacity="0.96"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <filter id="blur12" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 H 0 V 28" fill="none" stroke="#1f2a44" stroke-width="0.7" stroke-opacity="0.35"/>
+    </pattern>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.1" fill="#cbd5e1" fill-opacity="0.9"/>
+    </pattern>
+    <clipPath id="portraitClip">
+      <path d="M196 124c42-20 82-22 118-8 28 11 47 33 54 64 8 36 7 70-3 101-7 21-20 39-38 53-19 15-29 32-31 51l-6 52c-2 17-11 28-27 33-25 8-59 5-102-9-33-11-57-28-73-52-13-20-21-41-23-63-2-19 2-39 12-59 9-18 17-39 22-62 5-25 16-48 34-68 12-13 29-26 52-33z"/>
+    </clipPath>
+    <path id="orbit" d="M0 -136 C 80 -136 136 -80 136 0 C 136 80 80 136 0 136 C -80 136 -136 80 -136 0 C -136 -80 -80 -136 0 -136 Z"/>
+  </defs>
+
+  <rect width="1180" height="610" fill="url(#bg)"/>
+  <rect width="1180" height="610" fill="url(#grid)" opacity="0.45"/>
+
+  <g filter="url(#blur12)" opacity="0.55">
+    <circle cx="240" cy="140" r="95" fill="#22d3ee" fill-opacity="0.12"/>
+    <circle cx="1030" cy="130" r="120" fill="#a78bfa" fill-opacity="0.10"/>
+    <circle cx="930" cy="500" r="140" fill="#10b981" fill-opacity="0.08"/>
+  </g>
+
+  <g opacity="0.7">
+    <circle cx="120" cy="88" r="2.5" fill="#22d3ee">
+      <animate attributeName="cy" values="88;82;88" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;0.75;0.2" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="86" r="2" fill="#a78bfa">
+      <animate attributeName="cy" values="86;93;86" dur="7.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.3;0.85;0.3" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1008" cy="530" r="2.4" fill="#10b981">
+      <animate attributeName="cy" values="530;523;530" dur="5.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.25;0.8;0.25" dur="5.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(58 42)">
+    <rect x="0" y="0" width="1062" height="526" rx="32" fill="#0b1324" fill-opacity="0.58" stroke="#22314d" stroke-opacity="0.9"/>
+    <rect x="18" y="18" width="1026" height="490" rx="24" fill="url(#glass)" stroke="#2a395b" stroke-opacity="0.65"/>
+
+    <g transform="translate(38 40)">
+      <rect x="0" y="0" width="352" height="430" rx="28" fill="#08101c" stroke="#22314d" stroke-opacity="0.9"/>
+      <rect x="16" y="16" width="320" height="398" rx="20" fill="#091425" stroke="#1b2842"/>
+
+      <g clip-path="url(#portraitClip)">
+        <rect x="0" y="0" width="352" height="430" fill="#07101c"/>
+        <image href="./foto.jpeg" xlink:href="./foto.jpeg" x="12" y="16" width="328" height="398" preserveAspectRatio="xMidYMid slice" opacity="0.98"/>
+        <rect x="12" y="16" width="328" height="398" fill="#06101c" opacity="0.16"/>
+        <rect x="12" y="16" width="328" height="398" fill="url(#dots)" opacity="0.34"/>
+        <path d="M12 32H340M12 60H340M12 88H340M12 116H340M12 144H340M12 172H340M12 200H340M12 228H340M12 256H340M12 284H340M12 312H340M12 340H340M12 368H340" stroke="#22d3ee" stroke-opacity="0.05" stroke-width="1"/>
+        <rect x="12" y="16" width="328" height="398" fill="none" stroke="#22d3ee" stroke-opacity="0.08"/>
+      </g>
+
+      <rect x="16" y="16" width="320" height="398" rx="20" fill="none" stroke="#22314d"/>
+      <path d="M16 42H336" stroke="#22314d" stroke-opacity="0.8"/>
+      <circle cx="34" cy="31" r="4" fill="#10b981"/>
+      <circle cx="50" cy="31" r="4" fill="#22d3ee"/>
+      <circle cx="66" cy="31" r="4" fill="#a78bfa"/>
+      <text x="86" y="36" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">portrait.raster</text>
+    </g>
+
+    <g transform="translate(432 40)">
+      <rect x="0" y="0" width="586" height="430" rx="28" fill="#091220" stroke="#22314d" stroke-opacity="0.9"/>
+      <rect x="18" y="18" width="550" height="94" rx="18" fill="#0b1425" stroke="#1b2842"/>
+      <text x="42" y="54" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">USER</text>
+      <text x="170" y="56" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">k4r0n22</text>
+      <text x="42" y="85" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">ROLE</text>
+      <text x="170" y="87" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">Cybersecurity Engineering / Pentester</text>
+
+      <rect x="18" y="126" width="550" height="182" rx="18" fill="#0a1322" stroke="#1b2842"/>
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.2">
+        <text x="42" y="156" fill="#94a3b8">STATUS</text>
+        <circle cx="172" cy="151" r="5" fill="#10b981"/>
+        <text x="188" y="156" fill="#f8fafc">LIVE</text>
+        <circle cx="240" cy="151" r="3.5" fill="#10b981">
+          <animate attributeName="opacity" values="1;0.25;1" dur="1.2s" repeatCount="indefinite"/>
+        </circle>
+
+        <text x="42" y="186" fill="#94a3b8">FOCUS</text>
+        <text x="172" y="186" fill="#f8fafc">web security / offensive security / malware analysis</text>
+
+        <text x="42" y="216" fill="#94a3b8">LANGUAGES</text>
+        <text x="172" y="216" fill="#22d3ee">Python, Bash, PowerShell, JavaScript</text>
+
+        <text x="42" y="246" fill="#94a3b8">TOOLS</text>
+        <text x="172" y="246" fill="#a78bfa">Kali, Burp Suite, Linux, Docker, Git, OWASP</text>
+
+        <text x="42" y="276" fill="#94a3b8">GITHUB</text>
+        <text x="172" y="276" fill="#f8fafc">github.com/k4r0n22</text>
+      </g>
+
+      <rect x="18" y="326" width="550" height="86" rx="18" fill="#0a1424" stroke="#1b2842"/>
+      <text x="42" y="352" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">LINKEDIN</text>
+      <text x="172" y="352" fill="#f8fafc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">linkedin.com/in/carlos-gonzález-ledo-32b9b1266</text>
+      <text x="42" y="380" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">EMAIL</text>
+      <path d="M172 374H470" stroke="#22314d" stroke-width="2" stroke-linecap="round" stroke-opacity="0.9"/>
+
+      <g transform="translate(392 52)">
+        <text x="0" y="0" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">PIPELINE</text>
+        <rect x="0" y="14" width="146" height="6" rx="3" fill="#13223d"/>
+        <rect x="0" y="14" width="78" height="6" rx="3" fill="url(#cyan)">
+          <animate attributeName="width" values="56;112;72;128;56" dur="5.5s" repeatCount="indefinite"/>
+        </rect>
+        <rect x="0" y="24" width="146" height="6" rx="3" fill="#13223d"/>
+        <rect x="0" y="24" width="118" height="6" rx="3" fill="url(#violet)">
+          <animate attributeName="width" values="70;128;88;136;70" dur="6.5s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <g transform="translate(98 392)">
+        <circle cx="0" cy="0" r="5" fill="#10b981"/>
+        <circle cx="26" cy="0" r="5" fill="#22d3ee"/>
+        <circle cx="52" cy="0" r="5" fill="#a78bfa"/>
+        <circle cx="78" cy="0" r="5" fill="#10b981"/>
+        <circle cx="104" cy="0" r="5" fill="#22d3ee"/>
+        <circle cx="130" cy="0" r="5" fill="#a78bfa"/>
+      </g>
+
+      <text x="42" y="414" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">cursor ▏</text>
+      <text x="96" y="414" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">secure by design</text>
+      <rect x="18" y="18" width="550" height="394" rx="18" fill="none" stroke="#22314d"/>
+    </g>
+
+    <g transform="translate(498 492)">
+      <rect x="0" y="0" width="508" height="52" rx="18" fill="#091220" stroke="#22314d" stroke-opacity="0.9"/>
+      <g transform="translate(56 26)">
+        <g>
+          <use href="#orbit" fill="none" stroke="#22314d" stroke-opacity="0.55" stroke-width="1.4"/>
+          <g>
+            <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="18s" repeatCount="indefinite"/>
+            <g transform="translate(0 -136)">
+              <circle r="18" fill="#0b1425" stroke="#22d3ee" stroke-opacity="0.8"/>
+              <text x="0" y="5" text-anchor="middle" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Kali</text>
+            </g>
+            <g transform="translate(96 -96)">
+              <circle r="18" fill="#0b1425" stroke="#a78bfa" stroke-opacity="0.8"/>
+              <text x="0" y="5" text-anchor="middle" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Burp</text>
+            </g>
+            <g transform="translate(136 0)">
+              <circle r="18" fill="#0b1425" stroke="#10b981" stroke-opacity="0.8"/>
+              <text x="0" y="5" text-anchor="middle" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Py</text>
+            </g>
+            <g transform="translate(96 96)">
+              <circle r="18" fill="#0b1425" stroke="#22d3ee" stroke-opacity="0.8"/>
+              <text x="0" y="5" text-anchor="middle" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Linux</text>
+            </g>
+            <g transform="translate(0 136)">
+              <circle r="18" fill="#0b1425" stroke="#a78bfa" stroke-opacity="0.8"/>
+              <text x="0" y="5" text-anchor="middle" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">Git</text>
+            </g>
+            <g transform="translate(-96 96)">
+              <circle r="18" fill="#0b1425" stroke="#10b981" stroke-opacity="0.8"/>
+              <text x="0" y="5" text-anchor="middle" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">Docker</text>
+            </g>
+            <g transform="translate(-136 0)">
+              <circle r="18" fill="#0b1425" stroke="#22d3ee" stroke-opacity="0.8"/>
+              <text x="0" y="5" text-anchor="middle" fill="#22d3ee" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9">OWASP</text>
+            </g>
+            <g transform="translate(-96 -96)">
+              <circle r="18" fill="#0b1425" stroke="#a78bfa" stroke-opacity="0.8"/>
+              <text x="0" y="5" text-anchor="middle" fill="#a78bfa" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Sec</text>
+            </g>
+          </g>
+        </g>
+      </g>
+
+      <text x="302" y="31" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">toolchain</text>
+    </g>
+  </g>
+
+  <path d="M0 610H1180" stroke="#22314d" stroke-opacity="0.45"/>
+</svg>

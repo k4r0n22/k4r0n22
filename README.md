@@ -1,55 +1,38 @@
+# k4r0n22
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+	<img alt="k4r0n22 cyber terminal banner" src="./light.svg" width="100%">
+</picture>
+
+## Stats
+
 <div align="center">
-
-# 👾 k4r0n22
-
-👽 **Cybersecurity Engineering**
-
+	<img alt="GitHub stats" src="https://YOUR_VERCEL_URL/api?username=k4r0n22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=22D3EE&text_color=F8FAFC&icon_color=10B981&bg_color=0A101F00&border_color=0A101F00">
+	<img alt="Top languages" src="https://YOUR_VERCEL_URL/api/top-langs/?username=k4r0n22&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=F8FAFC&bg_color=0A101F00&border_color=0A101F00">
+	<img alt="GitHub streak" src="https://YOUR_VERCEL_URL/api/streak?user=k4r0n22&theme=transparent&hide_border=true&stroke=22D3EE&ring=10B981&fire=A78BFA&currStreakNum=F8FAFC&currStreakLabel=94A3B8&sideNums=F8FAFC&sideLabels=94A3B8&dates=94A3B8">
 </div>
 
----
+## Snake
 
-## 🔄 About Me
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+	<img alt="GitHub contribution snake" src="./github-snake.svg" width="100%">
+</picture>
 
-- 🛡️ Cybersecurity Engineering student  
-- 💻 Interested in system security & scripting  
-- 🔐 Focus on backend, automation and security  
-- 🚀 Always learning  
+## Projects
 
----
+- [cyber_portfolio](https://github.com/k4r0n22/cyber_portfolio) - CSS
+- [mypctracker](https://github.com/k4r0n22/mypctracker) - EJS
+- [nodejs_bbdd_railway](https://github.com/k4r0n22/nodejs_bbdd_railway) - JavaScript
+- [mini_proyecto_foro](https://github.com/k4r0n22/mini_proyecto_foro) - EJS
 
-# 💻 Insight:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tech Stack
 
----
+`Python` `Bash` `PowerShell` `Linux` `Docker` `Git` `Kali` `Burp Suite` `OWASP`
 
-# 📊 Stats:
-<div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=k4r0n22&theme=transparent&hide_border=true)<br/>
+## Contact
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k4r0n22&theme=transparent&hide_border=true&layout=compact)
-
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=k4r0n22&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
----
-## 🔐 Security Interests
-
-- Backend security  
-- Scripting & automation  
-- Linux environments  
-- Secure system design  
+GitHub: `k4r0n22`
+LinkedIn: [carlos-gonzález-ledo-32b9b1266](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-ledo-32b9b1266/)
 
