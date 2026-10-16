@@ -1,48 +1,72 @@
-# k4r0n22
+# Carlos Javier Gonzalez Ledo · `k4r0n22`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <img alt="k4r0n22 cybersecurity profile banner" src="./light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/header-dark.svg">
+  <img src="./assets/readme/header-light.svg" alt="Cybersecurity profile header for Carlos Javier Gonzalez Ledo" width="100%">
 </picture>
 
-## Cybersecurity Engineering | Pentesting
+<p align="center">
+  Cybersecurity Engineering Student (URJC) · Pentesting · Offensive Security · Security Automation
+</p>
 
-> Practical security learning, offensive security, and continuous technical growth.
+<p align="center">
+  <a href="https://github.com/k4r0n22">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/carlos-gonz%C3%A1lez-ledo-32b9b1266/">LinkedIn</a> ·
+  <a href="https://tryhackme.com/p/d0v4h">TryHackMe</a> ·
+  <a href="https://app.hackthebox.com/profile/d0v4hk1in">Hack The Box</a>
+</p>
+
+![divider](./assets/readme/divider.svg)
 
 ## About me
 
-I’m a cybersecurity engineering student at Universidad Rey Juan Carlos (URJC), Spain, with a strong interest in offensive security, web application security, scripting, and malware analysis. My work focuses on hands-on learning, security research, and building practical tools that help me understand real attack surfaces, automate security workflows, and improve my technical depth in the field.
+I am a cybersecurity engineering student at Universidad Rey Juan Carlos (Spain), focused on building practical skills in offensive security. I am especially interested in penetration testing, web application security, vulnerability research, malware analysis, and scripting-driven security automation.
+
+My current objective is to keep developing a credible, hands-on portfolio aligned with junior pentesting and offensive security roles.
 
 ## Technical skills
 
-| Category | Skills |
+| Area | Stack |
 | --- | --- |
-| Programming & scripting | C, Python, Bash, PowerShell, JavaScript, SQL |
-| Web development | HTML, CSS, Node.js, Express.js |
-| Security tools | Linux, Kali Linux, Burp Suite, OWASP |
-| Platforms & workflow | Git, Docker, Linux environments, security automation |
+| Programming & scripting | `C` · `Python` · `Bash` · `PowerShell` · `JavaScript` · `SQL` |
+| Web development | `HTML` · `CSS` · `Node.js` · `Express.js` |
+| Security focus | `Web App Security` · `Offensive Security` · `Vulnerability Research` · `Malware Analysis` |
+| Tooling & environments | `Linux` · `Kali Linux` · `Burp Suite` · `Git` · `Docker` · `OWASP-oriented workflows` |
 
 ## Featured projects
 
-- [cyber_portfolio](https://github.com/k4r0n22/cyber_portfolio) — Personal portfolio website built with HTML, CSS, JavaScript, and a lightweight Node.js/Express server. It reflects a clean, professional web presence and demonstrates front-end design and deployment work.
-- [mypctracker](https://github.com/k4r0n22/mypctracker) — PowerShell client plus Node.js/Express backend that sends machine-location data to a web interface for visualization. It demonstrates scripting, automation, and practical web integration.
-- [software-ciber-2627](https://github.com/k4r0n22/software-ciber-2627) — Team-built mini-SOC project developed during the URJC cybersecurity software engineering coursework. It brings together containerized security modules and shared monitoring workflows in a practical collaborative environment.
+### 1) [cyber_portfolio](https://github.com/k4r0n22/cyber_portfolio)
+- **Tech:** HTML, CSS, JavaScript, Node.js, Express.js  
+- **What it demonstrates:** Building and structuring a technical portfolio site with a custom front-end and lightweight server setup.
 
-## Cybersecurity learning & competitions
+### 2) [mypctracker](https://github.com/k4r0n22/mypctracker)
+- **Tech:** PowerShell, Node.js, Express.js, EJS  
+- **What it demonstrates:** A script-to-web workflow where a PowerShell client sends endpoint location data to a Node/Express service for visualization.
 
-- TryHackMe: [d0v4h](https://tryhackme.com/p/d0v4h)
-- Hack The Box: d0v4hk1in
-- Talent4Cyber 2026: Team member in a top-7 result in the Talent4Cyber 2026 competition. This was a team achievement and not an individual award.
+### 3) [software-ciber-2627](https://github.com/k4r0n22/software-ciber-2627)
+- **Tech:** Docker Compose, modular services, collaborative Git workflow  
+- **What it demonstrates:** Participation in a team mini-SOC academic project integrating multiple security-related modules in a shared infrastructure.
 
-## GitHub statistics
+![divider](./assets/readme/divider.svg)
+
+## Cybersecurity activities
+
+- **TryHackMe:** [d0v4h](https://tryhackme.com/p/d0v4h)  
+- **Hack The Box:** [d0v4hk1in](https://app.hackthebox.com/profile/d0v4hk1in)  
+- **Competition:** Participated in **Talent4Cyber 2026**, where my team achieved a **top-7** result.
+
+## GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k4r0n22&show_icons=true&theme=radical&hide_border=true&title_color=22d3ee&text_color=e2e8f0&icon_color=a78bfa&bg_color=0b1120" alt="GitHub stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4r0n22&layout=compact&theme=radical&hide_border=true&title_color=22d3ee&text_color=e2e8f0&bg_color=0b1120" alt="Top languages" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k4r0n22&show_icons=true&hide_border=true&title_color=22d3ee&text_color=d1d5db&icon_color=8b5cf6&bg_color=0a0f1c" alt="GitHub stats for k4r0n22" width="430" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4r0n22&layout=compact&hide_border=true&title_color=22d3ee&text_color=d1d5db&bg_color=0a0f1c" alt="Top languages used by k4r0n22" width="330" />
 </div>
+
+<p align="center">
+  If the stats widgets are temporarily unavailable, use the repositories tab and contribution graph on my GitHub profile for the canonical activity view.
+</p>
 
 ## Contact
 
-- GitHub: [k4r0n22](https://github.com/k4r0n22)
-- LinkedIn: [Carlos Javier González Ledo](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-ledo-32b9b1266/)
-
+- GitHub: [github.com/k4r0n22](https://github.com/k4r0n22)
+- LinkedIn: [Carlos Javier Gonzalez Ledo](https://www.linkedin.com/in/carlos-gonz%C3%A1lez-ledo-32b9b1266/)

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">k4r0n22 cybersecurity header light</title>
+  <desc id="desc">Light cybersecurity profile banner with identity and focus areas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f8ff"/>
+      <stop offset="60%" stop-color="#edf3ff"/>
+      <stop offset="100%" stop-color="#e2e9fb"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0891b2"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#cbd5e1" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)" opacity="0.55"/>
+
+  <g opacity="0.28">
+    <circle cx="1110" cy="80" r="110" fill="#67e8f9"/>
+    <circle cx="1180" cy="250" r="140" fill="#c4b5fd"/>
+  </g>
+
+  <g transform="translate(42 42)">
+    <rect width="1196" height="276" rx="24" fill="#f8fbff" stroke="#cbd5e1"/>
+    <rect x="22" y="22" width="750" height="232" rx="18" fill="#f2f7ff" stroke="#c7d2fe"/>
+    <rect x="792" y="22" width="382" height="232" rx="18" fill="#f1f5ff" stroke="#c7d2fe"/>
+
+    <text x="48" y="78" fill="#0e7490" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">Carlos Javier Gonzalez Ledo</text>
+    <text x="48" y="116" fill="#0f172a" font-family="ui-sans-serif, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Cybersecurity Engineering</text>
+    <text x="48" y="150" fill="#334155" font-family="ui-sans-serif, Segoe UI, Arial, sans-serif" font-size="24">Pentesting · Offensive Security · Web Security</text>
+    <text x="48" y="188" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">URJC · Spain · Practical learning through real projects</text>
+
+    <rect x="48" y="205" width="228" height="30" rx="15" fill="#e8f8ff" stroke="#7dd3fc"/>
+    <text x="66" y="225" fill="#0e7490" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">focus:web-app-security</text>
+
+    <rect x="288" y="205" width="220" height="30" rx="15" fill="#f1ecff" stroke="#c4b5fd"/>
+    <text x="306" y="225" fill="#6d28d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">focus:malware-analysis</text>
+
+    <rect x="520" y="205" width="230" height="30" rx="15" fill="#eaf5ff" stroke="#93c5fd"/>
+    <text x="538" y="225" fill="#0369a1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">focus:security-automation</text>
+
+    <g transform="translate(823 48)">
+      <text x="0" y="0" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">k4r0n22</text>
+      <path d="M0 20H326" stroke="url(#accent)" stroke-width="2"/>
+
+      <g transform="translate(0 -46)">
+        <path d="M163 44 255 96 255 186 163 238 71 186 71 96Z" fill="#eff6ff" stroke="#94a3b8" stroke-width="2"/>
+        <path d="M163 72 228 108 228 174 163 210 98 174 98 108Z" fill="none" stroke="url(#accent)" stroke-width="2"/>
+        <circle cx="163" cy="141" r="16" fill="#e0f2fe" stroke="#0891b2"/>
+        <path d="M148 141H178M163 126V156" stroke="#6d28d9" stroke-width="2"/>
+      </g>
+
+      <text x="24" y="188" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">learn · build · test · harden</text>
+    </g>
+  </g>
+</svg>
